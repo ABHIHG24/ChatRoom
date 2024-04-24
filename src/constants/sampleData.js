@@ -1,0 +1,94 @@
+export const sampleChats = [
+  {
+    avatar: [
+      "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAL0AyAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABgcDBAUCAf/EADgQAAIBAwEEBQsDBAMAAAAAAAABAgMEEQUGIUFREjFhgZETIiMyQlJxscHR8DSSoRQWcvEVY5P/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/ALSABpkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3AAY7ivRtqTq3FSNOmuuUn+ZI7ebZW0MqzoVK+PbnLop/UKk3HHHkCFf3nd5/SUMculI37PbK2nhXlCpQz7cJdJL6gSYGO3r0bmkqtvVjUpvqlF/mDJ3BAAAAAAAAAAAAAAAAAAAAAAAAA09V1CjplnK4rt7t0IJ4c5cjcK42h1N6nqMpRlmhTzClHO7C638WBr6nqVzqdd1bmWV7FNerBdn3NN7+LALEAt3FgFg3NM1K50yuqttLC9um/Vmu37lh6XqNHUrSNeg3v3Tg3lwlyKwOrs9qb0zUIynLFGpiFWPDD6n8UZVYwAAAAAAAAAAAAAAAAAAAAAAAOZtLdO00W4nH15LoRfJy/2yt/lwJxtzLGl0Y8HXWf2y+5BwaAA0gAAA+XEAirI2aund6Lb1JevFdCb7Y/iOmRzYaWdMrR4RrvH7USMgAAAAAAAAAAAAAAAAAAAAAI/tvDpaRCS9itHPemiCFl6/bf1ej3VKKzPodKK7Y+cvkVpwyAABpAAAABwzwIqd7EQ6OkTk93TrSx3JIkBz9Atv6TR7WlJYn0OlJdssyfzOgQAAAAAAAAAAAAAAAAAAAAADwK72l0uWm6hJwji3rNypvt4x7ixDXvrKhf20re5gpU5dzXanzAq3HX2Hw7mq7NX1jJzoxdzQzulTWZL4o4cvNl0ZLEvde5+BaQAC3y6K3y91b34CkOR19mtLlqWoRc45t6LUqr7eEe8y6Vs1e30lOtGVtQzvlUWJP4Im9jZULC2jb20FGnHvb7W+ZBseAAAAAAAAAAAAAAAAAAAAAAAAAB4rVqVCDqVqkKcF7U3hAe+K68rqMVa3t7jPl6FKr/AJwUn4nHutqtMoebTlUry5U44Xi8HNq7aSz6GxWP+yrn5IKkP/D6dn9Bbf8AmjZo21vb48hRpUv8IKL8SIf3ndZ/R0P3SM1LbV5XlrFY4+Tq4+aCVLuL68vrBwrXarTK/m1JVKEuVSGV4rJ2qNalXgqlGpCpB+1B5QV7AAQAAAAAAAAAAAAAAAAAAA8znGnBzm1GMVmTe7B4urilaW869xNQpwWW2V/ruuV9VqOCzStYvzKafX2y5sDs6vtbGDlS0uMZvOPLT6l8FxItdXNa8qOpdVZ1Z85vP8cDD+IBKY7fz4BgGoAW4ARDHa/p4Ga1ua1nUVS1qzpT5weP44mECKl+kbWxm40tUjGDzjy0Op/FcCVQlGpBTg1KMlmLTzkqb8Z19C1yvpVRQeatrJ+fTb6u2PJmVWIDFa3FK7t4V7eanTmspoygAAAAAAAAAAAAAA+SajFyk8RW9t8EfSM7aan5C3jYUpekrRzUw/Vhy7wOFtHrL1S56FGTVrSfo4+8/eZxx8+YAAA1EAAAAAAAAAAIV2NnNZel3PQrSbtar9JH3X7yLCi1KKlF5TWU1xRUvzXEmuxep+Xt5WFWWZ0Vmm297hy7jKpMAAAAAAAAAAAAA+SkoRcpPCim23yRV+p3jv7+vcvqqSbS5LgvzmTvai5dtody4vzppUk/j1/xkrrC4AAAaiAAAAAAAAAAAAAAbWmXjsL+jcrqhJOUea4o1RhcSKtqMlOKlF5UkmmuTPpydl7h3Oi27k/Opp0m/h1fxg6xAAAAAAAAAAAEY27quNjaUuEqjl4L7shZLdvm+lZR4ek+hEgmgANAAAAAAAAAAAAAAAAQqabCVXKxuqXCNRS8V90SciOwLfSvY8PR/UlxlcAAAAAH/9k=",
+      "https://www.w3schools.com/w3css/img_avatar3.png",
+    ],
+    name: "User 1",
+    _id: "chat_123",
+    groupChat: false,
+    members: ["1", "2"],
+  },
+  {
+    avatar: [
+      "data:image/jpeg;base64,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",
+    ],
+    name: "User 2",
+    _id: "2",
+    groupChat: false,
+    members: ["chat_123", "2"],
+  },
+];
+
+export const sampleUsers = [
+  {
+    avatar: "https://www.w3schools.com/w3css/img_avatar3.png",
+    name: "user1",
+    _id: "chat_123",
+  },
+  {
+    avatar: "https://www.w3schools.com/w3css/img_avatar3.png",
+    name: "user2",
+    _id: "2",
+  },
+];
+
+export const sampleNotifications = [
+  {
+    sender: {
+      avatar: "https://www.w3schools.com/w3css/img_avatar3.png",
+      name: "user1",
+    },
+    _id: "chat_123",
+  },
+  {
+    sender: {
+      avatar: "https://www.w3schools.com/w3css/img_avatar3.png",
+      name: "user2",
+    },
+    _id: "2",
+  },
+];
+
+export const sampleMessage = [
+  {
+    attachments: [
+      {
+        public_id: "asdsad",
+
+        url: "https://www.w3schools.com/howto/img_avatar.png",
+      },
+    ],
+
+    content: "",
+
+    _id: "sfnsdjkfsdnfkjsbnd",
+
+    sender: {
+      _id: "user._id",
+
+      name: "Chaman",
+    },
+
+    chat: "chatId",
+
+    createdAt: "2024-02-12T10:41:30.630Z",
+  },
+  {
+    attachments: [],
+
+    content: "L*uda ka Message hai",
+
+    _id: "sfnsdjkssfsdnfkjsbnd",
+
+    sender: {
+      _id: "sdsdsdsdf",
+
+      name: "Chaman",
+    },
+
+    chat: "chatId",
+
+    createdAt: "2024-02-12T10:41:30.630Z",
+  },
+];
