@@ -188,7 +188,7 @@ const Login = () => {
           <Link href="forget-password" variant="body2">
             Forgot Password?
           </Link>
-          <GoogleButton onClick={loginWithGoogle} />
+          {/* <GoogleButton onClick={loginWithGoogle} /> */}
           <Box mt={1}>
             <Link
               href="#"
