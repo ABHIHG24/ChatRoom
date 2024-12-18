@@ -1,4 +1,6 @@
-export const server = import.meta.env.VITE_CHATROOM_SERVER;
+// export const server = import.meta.env.VITE_CHATROOM_SERVER;
+
+export const server= "http://localhost:3000";
 
 import axios from "axios";
 
