@@ -39,7 +39,10 @@ function App() {
   useEffect(() => {
     CustomFetch(`/user/me`)
       .then(({ data }) => dispatch(userExists(data.user)))
-      .catch((err) => dispatch(userNotExists()));
+      .catch((err) => {
+      console.error(err); // Add this to log the error
+      dispatch(userNotExists());
+    });
   }, [dispatch]);
 
   return loader ? (
